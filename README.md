@@ -10,4 +10,4 @@ I would've kept it at 5 sentences but I have very strong feelings about this for
 3. Alternatively, restrict the programming language and have a testing suite that can be run on the program so the student doesn't have to type the tests themselves. It's also infinitely easier to grade and doesn't rely on the students to submit instructions on how to run the program.
 4. Rename rollback() to abort() or something similar. The current name makes it feel like it would roll back a previously committed change to the previous state.
 5. Make a rollback() method that makes you roll back a previously committed change.
-6. Elaborate on how the "Working Code" section of the grade is going to be tested. Are you just going to use a test function the student provides?
+6. If you're not going to do #3, elaborate on how the "Working Code" section of the grade is going to be tested. Are you just going to use a test function the student provides?
